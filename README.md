@@ -14,27 +14,27 @@ I got this dataset from Kaggle '(https://www.kaggle.com/datasets/sukhmandeepsing
 
 ## What can be seen in this file?
 
--Data Cleaning
+-Data Cleaning.
 
--Feature Engineering
+-Feature Engineering.
 
--Descriptive Statistics
+-Descriptive Statistics.
 
--Supervised Machine Learning - KNN, Naive Bayes Algorithm
+-Supervised Machine Learning - KNN, Naive Bayes Algorithm.
 
--Unsupervised Machine Learning - KMeans Clustering
+-Unsupervised Machine Learning - KMeans Clustering.
 
 ## What's needed to run this code?
 
-- Python 3 (I used Jupyter)
-- pandas library for Python
-- numpys library for Python
-- datetime library for Python
-- sklearn library for Python
+- Python 3 (I used Jupyter).
+- pandas library for Python.
+- numpys library for Python.
+- datetime library for Python.
+- sklearn library for Python.
 
 
 ## How to Access for Yourself?
-Click on `housingdatafile.ipynb` and download raw file, then upload onto Python system (i.e Jupyter Notebooks)
+Click on `housingdatafile.ipynb` and download raw file, then upload onto Python system (i.e Jupyter Notebooks).
 
 
 ##
