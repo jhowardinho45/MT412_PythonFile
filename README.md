@@ -15,9 +15,13 @@ I got this dataset from Kaggle '(https://www.kaggle.com/datasets/sukhmandeepsing
 ## What can be seen in this file?
 
 -Data Cleaning
+
 -Feature Engineering
+
 -Descriptive Statistics
+
 -Supervised Machine Learning - KNN, Naive Bayes Algorithm
+
 -Unsupervised Machine Learning - KMeans Clustering
 
 ## What's needed to run this code?
